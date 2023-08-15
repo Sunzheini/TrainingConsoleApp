@@ -1,0 +1,15 @@
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\bin\Debug\net7.0\TrainingConsoleApp.exe
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\bin\Debug\net7.0\TrainingConsoleApp.deps.json
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\bin\Debug\net7.0\TrainingConsoleApp.runtimeconfig.json
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\bin\Debug\net7.0\TrainingConsoleApp.dll
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\bin\Debug\net7.0\TrainingConsoleApp.pdb
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.csproj.AssemblyReference.cache
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.AssemblyInfoInputs.cache
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.AssemblyInfo.cs
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.csproj.CoreCompileInputs.cache
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.dll
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\refint\TrainingConsoleApp.dll
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.pdb
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\TrainingConsoleApp.genruntimeconfig.cache
+D:\Study\Projects\RiderProjects\TrainingConsoleApp\TrainingConsoleApp\obj\Debug\net7.0\ref\TrainingConsoleApp.dll
