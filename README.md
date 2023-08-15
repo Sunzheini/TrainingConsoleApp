@@ -1,0 +1,2 @@
+# TrainingConsoleApp
+ Training in C#
